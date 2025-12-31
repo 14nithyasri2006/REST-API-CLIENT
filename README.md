@@ -47,3 +47,5 @@ Technologies Used:
 *JSON Data Format
 
 OUTPUT:
+
+<img width="1121" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9dd75c7a-89a3-4654-a2fd-4477dd2e2730" />
